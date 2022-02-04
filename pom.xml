@@ -10,7 +10,7 @@
         <developerConnection>scm:git:git@github.com:klevinism/repomanagement.git</developerConnection>
         <connection>scm:git:https://github.com/klevinism/repomanagement.git</connection>
         <url>https://github.com/klevinism/repomanagement.git</url>
-        <tag>RepositoryManagementProject-1.0.4</tag>
+        <tag>RepositoryManagementProject-1.0.6</tag>
     </scm>
 
     <properties>
@@ -31,14 +31,14 @@
         </snapshotRepository>
     </distributionManagement>
 
-    <dependencies>
-        <dependency>
-            <groupId>com.patientsky.modules</groupId>
-            <artifactId>platform-configuration-contracts</artifactId>
-            <version>10.0.140</version>
-        </dependency>
+<!--    <dependencies>-->
+<!--        <dependency>-->
+<!--            <groupId>com.patientsky.modules</groupId>-->
+<!--            <artifactId>platform-configuration-contracts</artifactId>-->
+<!--            <version>10.0.140</version>-->
+<!--        </dependency>-->
 
-    </dependencies>
+<!--    </dependencies>-->
     <build>
         <pluginManagement>
         <plugins>
